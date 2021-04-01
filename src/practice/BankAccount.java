@@ -10,7 +10,7 @@ public class BankAccount {
 	
 	BankAccount()
 	{
-		accholdername="Suraj";
+		accholdername="Surj";
 	    Bankname= "SBI";
 		accbal=1000;
 		accno=1256;
